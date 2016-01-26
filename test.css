@@ -1,2 +1,13 @@
+@import url(http://fonts.googleapis.com/earlyaccess/jejuhallasan.css);
+@import url(http://fonts.googleapis.com/earlyaccess/jejumyeongjo.css);
+@import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
 
-
+body {
+    font-family: 'Microsoft NeoGothic', 'San Francisco', 'Helvetica' 'sans-serif';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    position: relative;
+    left: 1%;
+    text-align: left;
+}
